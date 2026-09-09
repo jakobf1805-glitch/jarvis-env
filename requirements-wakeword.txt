@@ -1,0 +1,3 @@
+# Optional: nur für den separaten Wakeword-Test erforderlich.
+openwakeword==0.4.0
+PyAudio==0.2.14

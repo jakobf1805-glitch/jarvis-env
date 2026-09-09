@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=J.A.R.V.I.S.
+Comment=Lokaler Sprach- und Desktop-Assistent
+Exec=@PYTHON@ @PROJECT_DIR@/jarvis_app.py
+Terminal=false
+Categories=Utility;Development;
+StartupNotify=true

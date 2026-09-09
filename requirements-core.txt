@@ -1,0 +1,4 @@
+# Der plattformübergreifende Dashboard-Kern (Linux, Windows, macOS-Browser)
+openai>=3.8.0
+vosk==0.3.45
+piper-tts==1.8.0

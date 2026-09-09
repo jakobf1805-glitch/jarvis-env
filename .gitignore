@@ -1,0 +1,41 @@
+# Lokale Python-Umgebungen und Caches
+/bin/
+/include/
+/lib/
+/lib64/
+/lib64
+/pyvenv.cfg
+/.venv/
+/venv/
+/env/
+__pycache__/
+*.py[cod]
+
+# Heruntergeladene Modelle und Stimmen (werden mit download_models.py erstellt)
+/models/
+/voices/
+*.onnx
+*.onnx.json
+
+# Zugangsdaten und lokale OAuth-Dateien
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+google-client.json
+credentials.json
+token.json
+
+# Lokale Daten, Protokolle und Editor-Dateien
+/Jarvis-Workspace/
+*.log
+.vscode/
+.idea/
+.DS_Store
+
+# Alte lokale Experimente bleiben privat und werden nicht veröffentlicht.
+/debug_api.py
+/jarvis.py
+/jarvis_old.py
